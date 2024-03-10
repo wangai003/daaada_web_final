@@ -37,15 +37,15 @@ const Footer = () => (
       </p>
       <p className="text-white text-lg text-center font-medium mt-2">
         {" "}
-        - PandaCoin 🐼
+        - Daada inc 
       </p>
     </div>
 
     <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " />
 
     <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
-      <p className="text-white text-left text-xs">@pandacoin</p>
-      <p className="text-white text-right text-xs">All rights reserved</p>
+      <p className="text-white text-left text-xs">Daada inc.com</p>
+      <p className="text-white text-right text-xs">All rights reserved 2024</p>
     </div>
   </div>
 );
